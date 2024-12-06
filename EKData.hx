@@ -54,13 +54,13 @@ class EKData {
             ],
 		8 => [
                 "letters" => ["A", "B", "C", "D", "E", "F", "G", "H", "I"], 
-                "anims" => ["LEFT", "DOWN", "UP", "RIGHT0", "UP", "LEFT", "DOWN", "UP", "RIGHT0"],
+                "anims" => ["LEFT0", "DOWN0", "UP0", "RIGHT0", "UP0", "LEFT0", "DOWN0", "UP0", "RIGHT0"],
 	        "strumAnims" => ["LEFT0", "DOWN0", "UP0", "RIGHT0", "SPACE", "LEFT0", "DOWN0", "UP0", "RIGHT0"], 
                 "pixelAnimIndex" => [0, 1, 2, 3, 4, 5, 6, 7, 8]
             ],
 		9 => [
                 "letters" => ["A", "B", "C", "D", "E", "N", "F", "G", "H", "I"], 
-                "anims" => ["LEFT", "DOWN", "UP", "RIGHT0", "UP", "UP", "LEFT", "DOWN", "UP", "RIGHT0"],
+                "anims" => ["LEFT0", "DOWN0", "UP0", "RIGHT0", "UP", "UP", "LEFT", "DOWN", "UP", "RIGHT0"],
 	        "strumAnims" => ["LEFT", "DOWN", "UP", "RIGHT0", "SPACE", "CIRCLE", "LEFT0", "DOWN0", "UP0", "RIGHT0"], 
                 "pixelAnimIndex" => [0, 1, 2, 3, 4, 13, 5, 6, 7, 8]
             ],
